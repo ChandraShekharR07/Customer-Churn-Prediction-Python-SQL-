@@ -108,9 +108,10 @@ Telecom companies struggle with high customer churn due to competitive pricing, 
 
 ---
 
-## 🚀 How to Run the Project
+## 🙋‍♂️ Author
 
-### 1. Clone the Repository
-```bash
-git clone https://github.com/ChandraShekharR07/Customer-Churn-Prediction-Python-SQL-.git
-cd Customer-Churn-Prediction-Python-SQL-
+**Chandra Shekhar R**  
+📍 Aspiring Data Analyst | Python & SQL Enthusiast  
+🔗 [GitHub – ChandraShekharR07](https://github.com/ChandraShekharR07)  
+🔗 [LinkedIn – chandra-shekhar-r-434849287](https://www.linkedin.com/in/chandra-shekhar-r-434849287/)
+
