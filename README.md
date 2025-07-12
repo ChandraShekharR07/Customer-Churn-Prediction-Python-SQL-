@@ -80,31 +80,29 @@ Telecom companies struggle with high customer churn due to competitive pricing, 
 
 ## 📸 Output Snapshots
 
-Here are some key visual outputs from the project:
+### Churn Distribution  
+![Churn Distribution](https://github.com/ChandraShekharR07/Customer-Churn-Prediction-Python-SQL-/raw/main/Images/Churn%20Distribution.png)
 
-- 📉 **Churn Distribution**  
-  ![Churn Distribution](images/Churn%20Distribution.png)
+### Churn by Contract Type  
+![Churn by Contract Type](https://github.com/ChandraShekharR07/Customer-Churn-Prediction-Python-SQL-/raw/main/Images/Churn%20by%20Contract%20Type.png)
 
-- 📑 **Churn by Contract Type**  
-  ![Churn by Contract Type](images/Churn%20by%20Contract%20Type.png)
+### Churn by Gender  
+![Churn by Gender](https://github.com/ChandraShekharR07/Customer-Churn-Prediction-Python-SQL-/raw/main/Images/Churn%20by%20Gender.png)
 
-- 👤 **Churn by Gender**  
-  ![Churn by Gender](images/Churn%20by%20Gender.png)
+### Confusion Matrix  
+![Confusion Matrix](https://github.com/ChandraShekharR07/Customer-Churn-Prediction-Python-SQL-/raw/main/Images/Confusion%20Matrix.png)
 
-- 📊 **Confusion Matrix**  
-  ![Confusion Matrix](images/Confusion%20Matrix.png)
+### Correlation of Features with Churn  
+![Correlation of Features with Churn](https://github.com/ChandraShekharR07/Customer-Churn-Prediction-Python-SQL-/raw/main/Images/Correlation%20of%20Features%20with%20Churn.png)
 
-- 🔗 **Correlation of Features with Churn**  
-  ![Correlation of Features with Churn](images/Correlation%20of%20Features%20with%20Churn.png)
+### Distribution of Tenure  
+![Distribution of Tenure](https://github.com/ChandraShekharR07/Customer-Churn-Prediction-Python-SQL-/raw/main/Images/Distribution%20of%20Tenure.png)
 
-- ⏳ **Distribution of Tenure**  
-  ![Distribution of Tenure](images/Distribution%20of%20Tenure.png)
+### Monthly Charges vs Churn  
+![Monthly Charges vs Churn](https://github.com/ChandraShekharR07/Customer-Churn-Prediction-Python-SQL-/raw/main/Images/Monthly%20Charges%20vs%20Churn.png)
 
-- 📈 **Monthly Charges vs Churn**  
-  ![Monthly Charges vs Churn](images/Monthly%20Charges%20vs%20Churn.png)
-
-- 📌 **Top 10 Important Features for Churn**  
-  ![Top 10 Important Features for Churn](images/Top%2010%20Important%20Features%20for%20Churn.png)
+### Top 10 Important Features for Churn  
+![Top 10 Important Features for Churn](https://github.com/ChandraShekharR07/Customer-Churn-Prediction-Python-SQL-/raw/main/Images/Top%2010%20Important%20Features%20for%20Churn.png)
 
 > 📂 All output visuals are available in the `images/` folder.
 
